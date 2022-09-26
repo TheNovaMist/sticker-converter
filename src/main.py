@@ -1,6 +1,6 @@
 import os
 import subprocess
-from utils import mkdir
+from src.utils import mkdir
 
 
 # 转换 sticker

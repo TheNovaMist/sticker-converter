@@ -15,6 +15,8 @@
 
 Run `main.exe` in the root dir, then the png images in `image` floder will be converted to gif stickers in `dist` floder.
 
+`root_path` is current path, which means if run `/src/main.py` will read `/src/image` floder.
+
 ## TODO
 
 - [ ] Auto parse sticker package
